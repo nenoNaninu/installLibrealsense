@@ -97,7 +97,8 @@ patchUbuntu will patch all of the needed modules for librealsense, build the mod
 <em><b>Note:</b> If you are building from a USB or some other device than the SD card, you will need to copy the Image file to the /boot directory on the SD card.</em>
 
 
-<em><b>Note:</b> If you are building with python, you should add path 
+<em><b>Note:</b> If you are building with python, you should add path </em>
 ```
 export PYTHONPATH=$PYTHONPATH:/usr/local/lib
-```</em>
+```
+
